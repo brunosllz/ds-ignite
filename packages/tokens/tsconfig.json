@@ -1,0 +1,6 @@
+{
+  "extends": "@bl-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ],
+}
