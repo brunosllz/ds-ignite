@@ -2,7 +2,7 @@ import { StoryObj, Meta } from '@storybook/react'
 import { Button, ButtonProps } from '@bl-ui/react'
 
 export default {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
   args: {
     children: 'Enviar',
