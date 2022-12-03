@@ -23,6 +23,10 @@ jobs:
       - name: Build Storybook
         run: npm run build
 
+      - run: npm ci
+
+      - run: npm run build
+
       - name: Deploy storybook
         working-directory: ./packages/docs
         run: npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
