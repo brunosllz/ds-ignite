@@ -17,11 +17,17 @@ jobs:
         with:
           node-version: 16
 
+<<<<<<< HEAD
       - name: Install dependencies
         run: npm ci
 
       - name: Build Storybook
         run: npm run build
+=======
+      - run: npm ci
+
+      - run: npm run build
+>>>>>>> 561f8a413e469bf4a5469ae663e7ca95f2543b74
 
       - name: Deploy storybook
         working-directory: ./packages/docs
