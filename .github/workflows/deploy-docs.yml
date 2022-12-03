@@ -20,8 +20,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Storybook
+      - name: Build packages
         run: npm run build
+
+      - run: npm ci
+
+      - run: npm run build
 
       - name: Deploy storybook
         working-directory: ./packages/docs
