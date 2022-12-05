@@ -13,7 +13,7 @@ export default {
           css={{ display: 'flex', flexDirection: 'row', gap: '$2' }}
         >
           {story()}
-          <Text size="sm">Accept terms of use</Text>
+          <Text sizes="sm">Accept terms of use</Text>
         </Box>
       )
     },
