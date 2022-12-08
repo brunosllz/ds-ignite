@@ -1,0 +1,2 @@
+import{A as t}from"./index.ba2728ac.js";import"./index.3a565fd3.js";import"./iframe.0ad44148.js";import"./index.1d0c1a22.js";import"./jsx-runtime.e72728b1.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunosllz.png",alt:"Bruno Luiz"}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.2e8b87d1.js.map
