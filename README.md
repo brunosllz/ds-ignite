@@ -12,13 +12,13 @@
 
 <br/>
 
-## [](https://github.com/brunosllz/todo-list#--sobre-o-projeto) 💻 Sobre o projeto
+## [](https://github.com/brunosllz/ds-ignite#--sobre-o-projeto) 💻 Sobre o projeto
 
 Projeto desenvolvido no Quinto desafio da trilha de ReactJS no Ignite da [Rocketseat](https://www.rocketseat.com.br/), o projeto tem como premissa a construção de um design system, com toda a parte de CI/CD, integração com Github Pages, utilização do Turbo Repo e muitos mais.
 
 ---
 
-## [](https://github.com/brunosllz/todo-list#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
+## [](https://github.com/brunosllz/ds-ignite#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
 
 - Documentanção do Design System com Storybook
 - CI/CD
@@ -40,14 +40,14 @@ $ npm run dev ou yarn dev
 
 ---
 
-## [](https://github.com/brunosllz/todo-list#--layout) 🔖 Documentação
+## [](https://github.com/brunosllz/ds-ignite#--layout) 🔖 Documentação
 
  Você visualizar os componentes através do link:
 [Storybook](https://brunosllz.github.io/ds-ignite/?path=/story/home--page)
 
 ---
 
-## [](https://github.com/brunosllz/todo-list#--tecnologias) 🛠 Tecnologias
+## [](https://github.com/brunosllz/ds-ignite#--tecnologias) 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -61,6 +61,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## [](https://github.com/brunosllz/todo-list#--milhas-a-mais) 🚀 Milhas a mais 
+## [](https://github.com/brunosllz/ds-ignite#--milhas-a-mais) 🚀 Milhas a mais 
 
 - [x] Novos componentes - Tooltip e Toast
