@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#--sobre-o-projeto">Sobre</a> •
   <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
-  <a href="#--docs">Documentação</a> •
+  <a href="#--docs">Docs</a> •
   <a href="#--tecnologias">Tecnologias</a> •
   <a href="#--milhas-a-mais">Milhas a mais</a> 
 </p>
@@ -40,9 +40,9 @@ $ npm run dev ou yarn dev
 
 ---
 
-## [](https://github.com/brunosllz/ds-ignite#--docs) 🔖 Documentação
+## [](https://github.com/brunosllz/ds-ignite#--docs) 🔖 Docs
 
- Você visualizar os componentes através do link:
+Você visualizar os componentes através do link:
 [Storybook](https://brunosllz.github.io/ds-ignite/?path=/story/home--page)
 
 ---
