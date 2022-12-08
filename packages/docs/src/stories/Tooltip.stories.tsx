@@ -2,7 +2,7 @@ import { StoryObj, Meta } from '@storybook/react'
 import { Box, Button, Tooltip, TooltipProps } from '@bl-ui/react/'
 
 export default {
-  title: 'Form/Tooltip',
+  title: 'Tools/Tooltip',
   component: Tooltip,
   args: {
     children: <Button>Hover me</Button>,
